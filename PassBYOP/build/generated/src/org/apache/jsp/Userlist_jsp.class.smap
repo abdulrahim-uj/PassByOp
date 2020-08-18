@@ -1,0 +1,23 @@
+SMAP
+Userlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 Userlist.jsp
+Userlist.jsp
++ 1 admin_header.jsp
+admin_header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,9:52
+1#1,113:60
+9#0,11:173
+20,8:185
+27,2:193
+29,4:195,3
+33,2:207
+35,3:210
+37,6:213
+1#2,171:218
+*E
