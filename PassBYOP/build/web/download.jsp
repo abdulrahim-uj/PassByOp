@@ -35,7 +35,7 @@
     String dpth=FilePath.path+"decfiles\\"+fnm;
         try
         {
-            AWSCredentials myCredentials = new BasicAWSCredentials("AKIAJD6Y7NTBFYOG2HUQ", "qY3Lrv55/mZU1W4TN00K5q1GHcLJLKNBo7DKh1GR");
+            AWSCredentials myCredentials = new BasicAWSCredentials("ACBGDRESJSSBDG", "sdfsdSAasdfsdjhnBxahSSswdfbvG");
             AmazonS3 s3 = new AmazonS3Client(myCredentials);
             //Region usWest2 = Region.getRegion(Regions.US_WEST_2);
             //s3.setRegion(usWest2);
